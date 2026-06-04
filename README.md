@@ -35,13 +35,6 @@ Worked on sim-to-real transfer using ROS and PyTorch.
 
 ---
 
-## Stats
-
-![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincentonggo&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentonggo&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Let's Connect
 
 [Portfolio](https://vincentonggo.com) · [LinkedIn](https://linkedin.com/in/vincentonggo) · [Email](mailto:vincentonggo@gmail.com)
