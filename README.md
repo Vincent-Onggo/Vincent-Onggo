@@ -9,7 +9,7 @@ shipping AI/ML systems including a WhatsApp lead qualification agent and a full-
 
 ## What I'm Building
 
-- **[Beat the Casino](https://vincentonggo.com)** — A blackjack card counting trainer for iOS/Android.
+- **[Beat the Casino](https://apps.apple.com/us/app/beat-the-casino-blackjack/id6762230540)** — A blackjack card counting trainer for iOS/Android.
   8-module curriculum, rank progression, subscription monetization. Built with React Native + Expo + Supabase.
 - **UFC Analytics Model** — A fight outcome prediction model using LightGBM with walk-forward validation
   across 21 quarters of fight data. Explored edge-cap filtering and CLV-based evaluation.
